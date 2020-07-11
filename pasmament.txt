@@ -1,3 +1,4 @@
 PASMAMENT RESOLUSI
 - Konsisten Membuat Project Untuk PASMAMENT
 - Membuat Game Dengan Kelompok Pasamament
+- Mendesain Karakter Game
